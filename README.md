@@ -1,5 +1,7 @@
 # Cognifyz Business Analytics Internship Project
 
+![Looping Cognifyz project structure and workflow](Cognifyz-Project-Structure.gif)
+
 An exploratory analysis and Power BI report based on the Cognifyz investor survey dataset.
 
 ## Deliverables
