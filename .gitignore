@@ -1,0 +1,18 @@
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Raw/source materials and duplicate inputs
+BUSINESS ANALYTICS.pdf.pdf
+Data_set 2 - Copy.csv
+Cognifyz Business Analytics.pbix
+Cognifyz-Business Analytics Internship.ipynb
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
